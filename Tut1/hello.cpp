@@ -6,4 +6,6 @@ using namespace std;
 
 int main() {
 	cout << "Hello, World!" << endl;
+
+	cout << "Test for fork push" << endl;
 }
